@@ -1,5 +1,7 @@
 # Helium 浏览器速查表 | Helium Cheatsheet | Guía rápida de Helium
 
+> 📚 **Colección / Coleção**: esta hoja forma parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 hojas de referencia en un solo repositorio. / Esta folha faz parte de [cheatsheets](https://github.com/Ezra-Zhao/cheatsheets) — 100 folhas de referência em um só repositório. ⭐
+
 > 一页看懂 Helium：基于 Chromium 的隐私浏览器——和 Chrome 长得几乎一样，但不盯着你。去 Google 化、默认隐私拉满、内置 uBlock Origin 并保留 Manifest V2，无账号、无同步，配置全存本地。
 
 - 上游项目：[imputnet/helium](https://github.com/imputnet/helium)（2026-10-29 实测 22,159 ★ / 664 forks，117 个 release；GitHub 官方 Octoverse 2026 博客列入社区/独立项目「按贡献者增长最快」前 10）
